@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="lt.ss.java2.tests.EmployeeServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-05-10T07:51:11" hostname="DESKTOP-4VB0V2K" time="0.635">
+  <properties/>
+  <testcase name="test()" classname="lt.ss.java2.tests.EmployeeServiceTest" time="0.635"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+]]></system-err>
+</testsuite>
